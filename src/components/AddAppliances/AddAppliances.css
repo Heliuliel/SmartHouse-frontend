@@ -1,0 +1,11 @@
+#main{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    /* border-radius: 50%; */
+    height: 80%;
+    /* background-color: rgba(220, 220, 220, 0.534); */
+}

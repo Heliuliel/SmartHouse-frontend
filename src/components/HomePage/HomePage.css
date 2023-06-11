@@ -1,0 +1,32 @@
+#plus {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: none;
+}
+
+#rooms {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 2%;
+}
+
+#details {
+    background-color: rgba(220, 220, 220, 0.534);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+table {
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-collapse: collapse;
+    margin-bottom: 15px;
+}
+table, td {
+    border: 1px solid;
+  }

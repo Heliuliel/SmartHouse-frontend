@@ -1,0 +1,35 @@
+#main{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 5%;
+    /* border-radius: 50%; */
+    height: 80%;
+    background-color: rgba(220, 220, 220, 0.534);
+}
+.element{
+    text-align: center;
+    margin-bottom: 3%;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    background-color: grey;
+    border: 1px solid black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+#fm{
+    /* position: relative; */
+    margin-left: 25%;
+    margin-right: 25%;
+    display: flex;
+    justify-content: space-around;
+    /* display: flex;
+    justify-content: space-between; */
+    flex-direction: column;
+    /* flex-direction: row; */
+}

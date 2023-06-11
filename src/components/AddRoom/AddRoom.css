@@ -1,0 +1,23 @@
+#main{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin: 5%;
+    height: 80%;
+    background-color: rgba(220, 220, 220, 0.534);
+}
+.element{
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 35%;
+    margin-right: 35%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: grey;
+    border: 1px solid black;
+
+}

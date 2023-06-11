@@ -1,0 +1,6 @@
+#applinces {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 35%;
+    margin-right: 35%;
+}
